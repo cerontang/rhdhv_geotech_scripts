@@ -1,0 +1,37 @@
+# Build and distribution folders
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Image folders
+img/
+img_AD/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local development settings
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Excel files
+*.xls
+*.xlsx
+*.xlsm
